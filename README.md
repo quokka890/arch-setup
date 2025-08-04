@@ -1,0 +1,1 @@
+shitty arch setup script
